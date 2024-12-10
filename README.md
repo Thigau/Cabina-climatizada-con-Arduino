@@ -4,11 +4,6 @@ Diseñado por estudiantes de nivel medio, este proyecto esta pensado para visual
 ## Objetivos
 
 - Elaborar el croquis del proceso industrial (investigación).
-- Diseñar el diagrama esquemático completo, incluyendo:
-  - Circuito de control y potencia.
-  - Arduino y sus componentes.
-  - Interfaces de señal y potencia.
-  - Pulsadores, sensores, actuadores, y otros elementos necesarios para automatizar el proceso y controlar las variables requeridas.
 - Desarrollar la aplicación en lenguaje C para Arduino.
 
 ## Partes del Sistema
