@@ -1,5 +1,5 @@
 # Cabina Climatizada
-Diseñado por estudiantes, este proyecto esta pensado para visualizar como se haria una cabina climatizada en codigo C (Arduino).
+Diseñado por estudiantes, este proyecto esta pensado para visualizar como se haría una cabina climatizada en codigo C (Arduino).
 
 ## Objetivos
 
