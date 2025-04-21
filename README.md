@@ -1,10 +1,10 @@
 # Cabina Climatizada
-Diseñado por estudiantes, este proyecto esta pensado para visualizar como se haría una cabina climatizada en codigo C (Arduino).
+Diseñado por estudiantes, este proyecto esta pensado para visualizar como se haría una cabina climatizada en codigo C++ (Arduino).
 
 ## Objetivos
 
 - Elaborar el croquis del proceso industrial (investigación).
-- Desarrollar la aplicación en lenguaje C para Arduino.
+- Desarrollar la aplicación en lenguaje C++ para Arduino.
 
 ## Partes del Sistema
 
